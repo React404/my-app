@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./error.css";
-import Background from "../img/Error404.svg";
+import Background from "../assets/img/Error404.svg";
 
 class Error extends Component {
   render() {

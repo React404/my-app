@@ -8,7 +8,7 @@ import Error from "./components/error404";
 function App() {
   return (
     <>
-      {/* <Nav /> */}
+      <Nav />
       <main className=" container p-2">
         <Error />
       </main>
